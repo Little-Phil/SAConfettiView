@@ -2,8 +2,8 @@
 
 ![language](https://img.shields.io/badge/Language-%20Swift%20-orange.svg)
 ![CI Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-[![License](https://img.shields.io/cocoapods/l/SAConfettiView.svg?style=flat)]
-[![Platform](https://img.shields.io/cocoapods/p/SAConfettiView.svg?style=flat)]
+![License](https://img.shields.io/cocoapods/l/SAConfettiView.svg?style=flat)
+![Platform](https://img.shields.io/cocoapods/p/SAConfettiView.svg?style=flat)
 
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/11940172/11791210/f97b6bd8-a2da-11e5-9083-b131fa796373.gif" alt="confetti" width="473.6" height="198">
