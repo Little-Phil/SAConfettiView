@@ -2,7 +2,6 @@
 
 ![language](https://img.shields.io/badge/Language-%20Swift%20-orange.svg)
 ![CI Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-[![Version](v0.1.9)]
 [![License](https://img.shields.io/cocoapods/l/SAConfettiView.svg?style=flat)]
 [![Platform](https://img.shields.io/cocoapods/p/SAConfettiView.svg?style=flat)]
 
