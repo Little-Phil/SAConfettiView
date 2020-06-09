@@ -2,9 +2,9 @@
 
 ![language](https://img.shields.io/badge/Language-%20Swift%20-orange.svg)
 ![CI Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-[![Version](https://img.shields.io/cocoapods/v/SAConfettiView.svg?style=flat)](http://cocoapods.org/pods/SAConfettiView)
-[![License](https://img.shields.io/cocoapods/l/SAConfettiView.svg?style=flat)](http://cocoapods.org/pods/SAConfettiView)
-[![Platform](https://img.shields.io/cocoapods/p/SAConfettiView.svg?style=flat)](http://cocoapods.org/pods/SAConfettiView)
+[![Version](v0.1.9)]
+[![License](https://img.shields.io/cocoapods/l/SAConfettiView.svg?style=flat)]
+[![Platform](https://img.shields.io/cocoapods/p/SAConfettiView.svg?style=flat)]
 
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/11940172/11791210/f97b6bd8-a2da-11e5-9083-b131fa796373.gif" alt="confetti" width="473.6" height="198">
@@ -129,6 +129,9 @@ confettiView.isActive()
 Returns `true` if it is being displayed, and `false` if it is not.
 
 ## Change Log
+
+### 1.0.9
+* Add Swift 5 support
 
 ### 1.0.8
 * Add `isActive()` method to determine if the confetti is currently active
